@@ -1,4 +1,5 @@
 @extends('layout')
+@section('title', 'Detail Book '.$book->id)
 
 @section('content')
 
